@@ -3,6 +3,8 @@
 # [Xyne Spaces](https://xyne.ai)
 
 **The org OS — your organization's context layer, with collaborative apps built
+
+**The org OS — your organization's context layer, with collaborative apps built
 around it. Real-time, permission-aware and built for agents.**
 
 **At the center: your org's context.** Connectors bring in what your organization
